@@ -79,12 +79,12 @@ def valid_knn():
 valid_knn()
 ```
 
-![acc](.\images\acc.png)
+![acc](https://github.com/m-L-0/18b-zhaoyongquan-2016-715/blob/master/TensorFlow%20Schoolwork/images/acc.png)
 
 ------
 
-姓名：赵永权
-学号：2016011715
-学院：软件学院
-专业：软件工程
+姓名：赵永权<br>
+学号：2016011715<br>
+学院：软件学院<br>
+专业：软件工程<br>
 
