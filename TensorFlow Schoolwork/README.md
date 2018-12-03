@@ -29,7 +29,7 @@ feature_names = iris.feature_names
 
 ```python
 from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test =  train_test_split(                       												 data,label,test_size=0.2,shuffle=True,random_state=6)
+X_train, X_test, y_train, y_test =  train_test_split(data,label,test_size=0.2,shuffle=True,random_state=6)          						
 ```
 
 #### 模型构建及学习
