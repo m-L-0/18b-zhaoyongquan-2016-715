@@ -195,7 +195,7 @@ plt.savefig("sp_iris_graph.png")
 plt.show()
 ```
 
-![sp_iris_graph](https://github.com/m-L-0/18b-zhaoyongquan-2016-715/blob/master/Clustering%20Schoolwork/images/iris_graph.png/sp_iris_graph.png)
+![sp_iris_graph](https://github.com/m-L-0/18b-zhaoyongquan-2016-715/blob/master/Clustering%20Schoolwork/images/sp_iris_graph.png)
 
 
 
