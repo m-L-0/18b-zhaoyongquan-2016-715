@@ -75,7 +75,7 @@ plt.savefig("iris_graph.png")
 plt.show()
 ```
 
-![iris_graph](.\images\iris_graph.png)
+![iris_graph](https://github.com/m-L-0/18b-zhaoyongquan-2016-715/blob/master/Clustering%20Schoolwork/images/iris_graph.png)
 
 #### 对X进行谱聚类，取前K个（从小到大）单位化的特征向量
 
@@ -195,7 +195,7 @@ plt.savefig("sp_iris_graph.png")
 plt.show()
 ```
 
-![sp_iris_graph](.\images\sp_iris_graph.png)
+![sp_iris_graph](https://github.com/m-L-0/18b-zhaoyongquan-2016-715/blob/master/Clustering%20Schoolwork/images/iris_graph.png/sp_iris_graph.png)
 
 
 
@@ -213,7 +213,7 @@ plt.show()
 
 ------
 
-姓名：赵永权
-学号：2016011715
-学院：软件学院
-专业：软件工程
+姓名：赵永权<br>
+学号：2016011715<br>
+学院：软件学院<br>
+专业：软件工程<br>
